@@ -8,7 +8,7 @@ const Hero = () => {
         data-aos="fade-down"
       >
         <img
-          src="./src/assets/img/hero.jpeg"
+          src="/img/hero.jpeg"
           className="w-full h-50  md:w-full md:h-100 object-cover bg-white"
         />
       </div>

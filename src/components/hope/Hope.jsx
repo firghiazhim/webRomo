@@ -17,7 +17,7 @@ const Hope = () => {
         <div data-aos="fade-down" className="bg-white shadow-2xl rounded-xl">
           <div className="p-5">
             <ReactPlayer
-              src="./src/assets/video/aca.mp4"
+              src="/video/aca.mp4"
               controls="true"
               height={`300px`}
               width={`100%`}
@@ -35,7 +35,7 @@ const Hope = () => {
         <div data-aos="fade-down" className="bg-white shadow-2xl rounded-xl">
           <div className="p-5">
             <ReactPlayer
-              src="./src/assets/video/nisa.mp4"
+              src="/video/nisa.mp4"
               controls="true"
               height={`300px`}
               width={`100%`}
@@ -53,7 +53,7 @@ const Hope = () => {
         <div data-aos="fade-down" className="bg-white shadow-2xl rounded-xl">
           <div className="p-5">
             <ReactPlayer
-              src="./src/assets/video/mira.mp4"
+              src="/video/mira.mp4"
               controls="true"
               height={`300px`}
               width={`100%`}
@@ -72,7 +72,7 @@ const Hope = () => {
         <div data-aos="fade-down" className="bg-white shadow-2xl rounded-xl">
           <div className="p-5">
             <ReactPlayer
-              src="./src/assets/video/mita.mp4"
+              src="/video/mita.mp4"
               controls="true"
               height={`300px`}
               width={`100%`}
@@ -90,7 +90,7 @@ const Hope = () => {
         <div data-aos="fade-down" className="bg-white shadow-2xl rounded-xl">
           <div className="p-5">
             <ReactPlayer
-              src="./src/assets/video/desri.mp4"
+              src="/video/desri.mp4"
               controls="true"
               height={`300px`}
               width={`100%`}

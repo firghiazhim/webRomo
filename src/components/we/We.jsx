@@ -18,10 +18,7 @@ const We = () => {
         className="mt-20 items-center grid grid-cols-1 sm:gap-20 sm:mt-30 sm:grid-cols-2"
       >
         <section className="bg-white flex justify-center items-center">
-          <img
-            src="./src/assets/img/we1.jpeg"
-            className="w-full h-100 object-cover"
-          />
+          <img src="/img/we1.jpeg" className="w-full h-100 object-cover" />
         </section>
         <section className="">
           <BlurText
@@ -50,10 +47,7 @@ const We = () => {
           />
         </section>
         <section className="bg-white flex justify-center items-center order-1 sm:order-2">
-          <img
-            src="./src/assets/img/we2.png"
-            className="w-full h-100 object-cover"
-          />
+          <img src="/img/we2.png" className="w-full h-100 object-cover" />
         </section>
       </div>
 
@@ -63,10 +57,7 @@ const We = () => {
         className="mt-20 items-center grid grid-cols-1 sm:gap-20 sm:mt-30 sm:grid-cols-2"
       >
         <section className="bg-white flex justify-center items-center">
-          <img
-            src="./src/assets/img/we3.jpeg"
-            className="w-full h-80 object-cover"
-          />
+          <img src="/img/we3.jpeg" className="w-full h-80 object-cover" />
         </section>
         <section className="">
           <BlurText
@@ -98,10 +89,7 @@ hahah dramaa bangett ya sayang."
           />
         </section>
         <section className="bg-white flex justify-center items-center order-1 sm:order-2">
-          <img
-            src="./src/assets/img/we4.jpeg"
-            className="w-full h-100 object-cover"
-          />
+          <img src="/img/we4.jpeg" className="w-full h-100 object-cover" />
         </section>
       </div>
 
@@ -111,10 +99,7 @@ hahah dramaa bangett ya sayang."
         className="mt-20 items-center grid grid-cols-1 sm:gap-20 sm:mt-30 sm:grid-cols-2"
       >
         <section className="bg-white flex justify-center items-center">
-          <img
-            src="./src/assets/img/we5.jpeg"
-            className="w-full h-100 object-cover"
-          />
+          <img src="/img/we5.jpeg" className="w-full h-100 object-cover" />
         </section>
         <section className="">
           <BlurText
@@ -146,10 +131,7 @@ kamu hatii aku berbunga bunga ayy bisa bonceng cewe yang selama ini aku incer, p
           />
         </section>
         <section className="bg-white flex justify-center items-center order-1 sm:order-2">
-          <img
-            src="./src/assets/img/we6.jpeg"
-            className="w-full h-100 object-cover"
-          />
+          <img src="/img/we6.jpeg" className="w-full h-100 object-cover" />
         </section>
       </div>
     </div>
