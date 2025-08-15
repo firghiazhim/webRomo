@@ -62,7 +62,8 @@ const You = () => {
         </section>
         <section className="">
           <BlurText
-            text="sayang aku suka kalo kamu pake kerudung model kaya gini, keliatannya kaya cocok bangett sayangg, kaya yalili bangett pokonyaa, pokonyaa pacarr ku thebestt dehh sholehahh hahhaha, always cantikkk digimanapunn ituu"
+            text="hahaha lucuu bangett foto ini, kerudungg nya lucuu, kamu pake kerudung kaya gitu kaya anakk kecill hahha, apalgii ditambah kamu di situu cemberutt kaya nambahh banget jadi anak kecil nyaa, ohh iyaa kaya anak kecil yang kalo minta
+kemauan apa apa harus diikutin, disini kamu kaya anak kecil yang ga di bolehon beli balon atau eskrim hahaha"
             delay={200}
             animatedBy="words"
             // direction="top"

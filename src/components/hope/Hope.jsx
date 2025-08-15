@@ -103,6 +103,24 @@ const Hope = () => {
             </p>
           </div>
         </div>
+
+        {/* desri */}
+        <div data-aos="fade-down" className="bg-white shadow-2xl rounded-xl">
+          <div className="p-5">
+            <ReactPlayer
+              src="/video/andin.mp4"
+              controls="true"
+              height={`300px`}
+              width={`100%`}
+              className="rounded-xl bg-white"
+            />
+            <h1 className="text-black pt-2">Andin</h1>
+            <p className="text-slate-500 text-[13px] md:text-[15px]">
+              Hallo intan, selamt ulang tahun, semangat terus kerjanya, apa yang
+              kamu pengen tercapai yaaa...
+            </p>
+          </div>
+        </div>
       </div>
     </div>
   );
